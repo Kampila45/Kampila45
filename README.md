@@ -13,7 +13,7 @@ I am also a **Microsoft Certified Fabric Analytics Engineer Associate**, skilled
 - **Backend Development**: Node.js, Express, REST APIs  
 - **AI & Automation**: AI Agent Development, Prompt Engineering, API Integration  
 - **Data Analysis & Visualization**: SQL, Excel, Power BI, Tableau, Stata, SPSS, EViews  
-- **Other Tools**: Jupyter Notebooks, Git, GitHub
+
 
 ---
 
