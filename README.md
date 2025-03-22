@@ -22,7 +22,7 @@ I am also a **Microsoft Certified Fabric Analytics Engineer Associate**, skilled
 - Developing full-stack applications using React and Node.js  
 - Creating and deploying AI agents for business intelligence  
 - Building automated data pipelines and dashboards  
-- Publishing projects and insights on my [portfolio site](https://www.datascienceportfolio.io/ENKampila)
+- Publishing projects and insights on my [portfolio site](https://www.datascienceportfol.io/ENKampila)
 
 **Note**: The current portfolio highlights data analysis projects. Full-stack and AI-related projects will be added soon.
 
@@ -32,7 +32,7 @@ I am also a **Microsoft Certified Fabric Analytics Engineer Associate**, skilled
 
 - Location: Lusaka, Zambia  
 - LinkedIn: [linkedin.com/in/nyashakampila](https://linkedin.com/in/nyashakampila)  
-- Portfolio: [datascienceportfolio.io/ENKampila](https://www.datascienceportfolio.io/ENKampila)
+- Portfolio: [datascienceportfolio.io/ENKampila](https://www.datascienceportfol.io/ENKampila)
 
 
 ---
