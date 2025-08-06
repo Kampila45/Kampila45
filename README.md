@@ -8,7 +8,7 @@ I am also a **Microsoft Certified Fabric Analytics Engineer Associate**, skilled
 
 ## Technical Skills
 
-- **Programming & Scripting**: Python, R, JavaScript, TypeScript  
+- **Programming & Scripting**: Python, R, JavaScript, TypeScript, C#  
 - **Frontend Development**: React, HTML, CSS  
 - **Backend Development**: Node.js, Express, REST APIs  
 - **AI & Automation**: AI Agent Development, Prompt Engineering, API Integration  
