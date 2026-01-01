@@ -1,40 +1,31 @@
 # Nyasha Kampila
 
-I am a full-stack developer with strong data analysis skills, focused on delivering scalable applications and insightful analytics. I build intelligent systems, AI agents, and end-to-end solutions that empower businesses to make data-driven decisions.
+**Full Stack Developer • Data Engineer • AI and Analytics Engineer**
 
-I am also a **Microsoft Certified Fabric Analytics Engineer Associate**, skilled in building enterprise-grade analytics solutions using Microsoft Fabric.
+📍 Lusaka, Zambia | 📧 [Email](mailto:nkampila45@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/nyashakampila) 
 
 ---
+
+## Professional Summary
+
+I am a full-stack developer with strong data analysis skills, focused on delivering scalable applications and insightful analytics, and I build intelligent systems, AI agents, and end-to-end solutions that empower businesses to make data-driven decisions. I am also a **Microsoft Certified Fabric Analytics Engineer Associate**, skilled in building enterprise-grade analytics solutions using Microsoft Fabric.
+
+
+## Certifications
+
+- **Microsoft Certified Fabric Analytics Engineer Associate**
 
 ## Technical Skills
 
-- **Programming & Scripting**: Python, R, JavaScript, TypeScript, C#  
-- **Frontend Development**: React, HTML, CSS  
-- **Backend Development**: Node.js, Express, REST APIs  
-- **AI & Automation**: AI Agent Development, Prompt Engineering, API Integration  
-- **Data Analysis & Visualization**: SQL, Excel, Power BI, Tableau, Stata, SPSS, EViews  
+### Languages
+`Python` `R` `JavaScript` `TypeScript` `C#`
+
+### AI & Automation
+`AI Agents` 
+
+### Data & Analytics
+`SQL` `Power BI` `Tableau` `Microsoft Fabric` `Excel` `Stata` `SPSS` `EViews`
 
 
 ---
 
-## Current Focus
-
-- Developing full-stack applications using React and Node.js  
-- Creating and deploying AI agents for business intelligence  
-- Building automated data pipelines and dashboards  
-- Publishing projects and insights on my [portfolio site](https://www.datascienceportfol.io/ENKampila)
-
-**Note**: The current portfolio highlights data analysis projects. Full-stack and AI-related projects will be added soon.
-
----
-
-## Contact
-
-- Location: Lusaka, Zambia  
-- LinkedIn: [linkedin.com/in/nyashakampila](https://linkedin.com/in/nyashakampila)  
-- Portfolio: [datascienceportfolio.io/ENKampila](https://www.datascienceportfol.io/ENKampila)
-
-
----
-
-*“Why so serious?” – A reminder to always have fun while solving serious problems.*
