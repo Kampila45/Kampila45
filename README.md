@@ -1,9 +1,5 @@
 # Nyasha Kampila
 
-**Full Stack Developer • Data Engineer • AI and Analytics Engineer**
-
-## About Me
-
 I am a full-stack developer with strong data analysis skills, focused on delivering scalable applications and insightful analytics. I build intelligent systems, AI agents, and end-to-end solutions that empower businesses to make data-driven decisions.
 
 I am also a **Microsoft Certified Fabric Analytics Engineer Associate**, skilled in building enterprise-grade analytics solutions using Microsoft Fabric.
