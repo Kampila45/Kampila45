@@ -1,11 +1,5 @@
 # Nyasha Kampila
 
-**Full Stack Developer • Data Engineer • AI and Analytics Engineer**
-
-📧 [Email](mailto:nkampila45@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/nyashakampila) | 🌐 [Portfolio](https://nyasha-kampila-portfolio-site.vercel.app/)
-
----
-
 ## About Me
 
 I am a full-stack developer with strong data analysis skills, focused on delivering scalable applications and insightful analytics. I build intelligent systems, AI agents, and end-to-end solutions that empower businesses to make data-driven decisions.
