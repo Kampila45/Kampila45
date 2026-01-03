@@ -43,6 +43,11 @@ As a **Microsoft Certified Fabric Analytics Engineer Associate**, I specialize i
 
 #
 
+<a href="https://github.com/Kampila45">
+  <img align="center" src="https://github-readme-stats-five-silk-30.vercel.app/api?username=Kampila45&show_icons=true&theme=gruvbox&hide_border=true" alt="Nyasha's GitHub stats" />
+</a>
+
+#
 
 ---
 
