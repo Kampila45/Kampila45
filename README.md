@@ -2,7 +2,7 @@
 
 **`Software Engineer / Data Engineer / AI and ML Engineer`**
 
-I'm a software engineer / data engineer building my version of the digital world one step at a time. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Whether it's crafting scalable web applications, deploying AI agents, or architecting analytics infrastructure, I create end-to-end solutions that transform data into actionable insights.
+I'm a software engineer building my version of the digital world one step at a time. All projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Whether it's crafting scalable web applications, deploying AI agents, or architecting analytics infrastructure, I create end-to-end solutions that transform data into actionable insights.
 
    <p align="left">
       <a href="https://github.com/Kampila45?tab=followers">
