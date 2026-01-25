@@ -17,7 +17,7 @@ I'm a software engineer building my version of the digital world one step at a t
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,cs,js,ts,react,nextjs,nodejs,html,css,git,postgresql,mysql,azure,r" />
+    <img src="https://skillicons.dev/icons?i=python,go,cs,js,ts,react,nextjs,astro,nodejs,fastapi,flask,html,css,git,postgresql,mysql,azure,r" />
   </a>
 </p>
 
@@ -36,5 +36,3 @@ I'm a software engineer building my version of the digital world one step at a t
 #
 
 ---
-
-
