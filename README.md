@@ -30,7 +30,7 @@ I'm a software engineer building my version of the digital world one step at a t
 #
 
 <a href="https://github.com/Kampila45">
-  <img align="center" src="https://github-readme-stats-five-silk-30.vercel.app/api?username=Kampila45&show_icons=true&theme=gruvbox&hide_border=true" alt="Nyasha's GitHub stats" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=Kampila45&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github" alt="Nyasha's GitHub stats" />
 </a>
 
 #
